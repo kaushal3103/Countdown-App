@@ -5,7 +5,7 @@ Countdown-App decrements the chosen date to get in touch, in an interactive way,
 ## Input
 To setup Countdown-App, the application needs to be served to your browser before fulfilling the dialog box.
 
-![screenshot-box-1](/screenshots/screenshot-box-1.jpg)
+![screenshot-box](/screenshots/screenshot-box.png)
 
 This dialog box will ask to enter a deadline in the following format:
 
