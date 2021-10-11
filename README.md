@@ -17,5 +17,3 @@ Then press "OK" to proceed.
 
 ## Output
 Once done the deadline will be updated in the giveaway description as well as in the countdown boxes that started decrementing.
-
-![countdown](/screenshots/countdown.gif)
